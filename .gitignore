@@ -7,3 +7,4 @@ R.java
 build.xml
 *.iml
 .git
+.gitignore
